@@ -13,3 +13,4 @@ Top restaurants by type
 Visualizations based on user preferences
 
 Interactive filters (type, rating, online order)
+Make sure star the Repo for your future reference :)
